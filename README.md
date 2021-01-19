@@ -1,3 +1,9 @@
+Video Link
+
+https://youtu.be/56UhHY648k4
+
+
+
 - Abstract
 The Project was created utilizing convolutional neural organizations (CNN) for recognition of facial expressions. The objective is to group every facial picture into one of the seven facial feeling classifications considered in this assignment. CNN models were prepared with various profundity utilizing gray-scale pictures from the Kaggle site [1]. The models were built up in TensorFlow [2] as well as Keras [3] and used Graphics Processing Unit (GPU) calculation to facilitate the preparation cycle. Notwithstanding the organizations performing dependent on crude pixel information, Utilization of half breed include technique was done by which a novel CNN model with the mix of crude pixel information and Sparse local binary pattern histograms [4] was prepared. To diminish the overfitting of the models, various strategies including dropout and batch normalisation were used also considering L2 regularization. Additionally, to present the representation of various layers of a neural network, highlights of a face can be learned by CNN models is also considered. Cross approval to decide the ideal hyper-boundaries were used and To assess the presentation of the created models, preparing narratives were considered based on the history of training.
 
